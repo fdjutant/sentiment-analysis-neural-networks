@@ -1,4 +1,4 @@
-[![Github commit](https://img.shields.io/github/last-commit/fdjutant/sentiment-analysis-neural-networks/master)](https://github.com/fdjutant/sentiment-analysis-neural-networks)
+[![Github commit](https://img.shields.io/github/last-commit/fdjutant/sentiment-analysis-neural-networks/main)](https://github.com/fdjutant/sentiment-analysis-neural-networks)
 
 # Sentiment Analysis using Neural Networks
 ## Project overview
